@@ -22,7 +22,6 @@ This project analyzes customer churn behavior using Power BI to identify key dri
 - DAX (for calculated measures)
 
 📸 Dashboard Preview
-(Add your screenshots here)
 
 🎯 Business Impact
 This dashboard helps businesses:
